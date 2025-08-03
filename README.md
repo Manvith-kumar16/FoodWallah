@@ -1,7 +1,6 @@
 # 🍽️ Food Ordering Web Application
 
-![Food Ordering Web App](https://github.com/user-attachments/assets/06f6422f-2fa0-4b6f-a6b1-ff1fce770392)
-
+![Food Ordering Web App](img/Front look.png)
 A modern, client-side only web application for food ordering, built with pure HTML, CSS, and JavaScript. This project demonstrates frontend development skills with a focus on responsive design and interactive user experience.
 
 ## 🚀 Features
